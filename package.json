@@ -1,0 +1,17 @@
+{
+    "name": "module11_homework",
+    "version": "1.0.0",
+    "description": "Задание для модуля C7"
+    "main": "index.js",
+    "repository": "https://github.com/Alina859/module-C7_homework",
+    "scripts": {
+      "test": "jest",
+      "count-down-dev": "nodemon srccountDown",
+      "reverse-string-dev": "nodemon src/reverseString"
+    },
+    "author": "alinabolotnikova224@gmail.com",
+    "license": "MIT",
+    "devDependencies": {
+      "jest": "^27.2.5"
+    }
+  }
